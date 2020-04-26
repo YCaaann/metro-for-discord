@@ -1,0 +1,25 @@
+/**
+ * @name metro-for-discord
+ * @author YCaaann#9085
+ * @version 4.4
+ * @description Edited with https://github | Base theme: metro-for-discord by YCaaann#9085
+ * @source https://github.com/YCaaann/metro-for-discord
+ * @website https://www.ycaaann.gq
+*/
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
+@import url('https://github.com/YCaaann/metro-for-discord/blob/master/base.css');
+@import url('https://github.com/YCaaann/metro-for-discord/blob/master/user-tags.css');
+@import url('https://github.com/YCaaann/metro-for-discord/blob/master/windows-titlebar.css');
+
+
+:root {
+
+--SD-bgR: 10;
+--SD-bgG: 10;
+--SD-bgB: 10;
+--SD-emojipickerheight: 244px;
+--SD-roundness: 0px;
+--SD-avatar-status-width: 2px;
+--SD-font: 'Roboto';
+
+}
