@@ -1,1 +1,1 @@
-# metro-for-steam
+# metro-for-discord
