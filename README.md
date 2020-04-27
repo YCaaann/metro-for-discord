@@ -1,4 +1,4 @@
-# Metro for Discord - [İndir](https://github.com/YCaaann/metro-for-discord/archive/master.zip)
+# Metro for Discord | [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases) - [İndir](https://github.com/YCaaann/metro-for-discord/archive/master.zip)
 
 Discord keskin ve basit hale getirir.
 
