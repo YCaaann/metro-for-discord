@@ -1,1 +1,1 @@
-# metro-for-discord
+Metro for Discord [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
