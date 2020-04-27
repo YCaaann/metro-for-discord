@@ -3,4 +3,4 @@
 Discord keskin ve basit hale getirir.
 
 Sunucu sohbeti + Profil bilgisi
-[logo]https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
+(https://ycaaann.gq/metro-for-discord/images/Sunucusohbeti+profilbilgisi.png)
